@@ -146,5 +146,6 @@ public class MainActivity extends AppCompatActivity {
         preferencesEditor.putInt(COLOR_KEY, mColor);
 
         preferencesEditor.apply();
+
     }
 }
